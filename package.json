@@ -1,0 +1,19 @@
+{
+  "name": "audit",
+  "version": "1.0.0",
+  "description": "Audit testing suite for websites",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PwrSerge/audit.git"
+  },
+  "author": "Serge Guilmette",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PwrSerge/audit/issues"
+  },
+  "homepage": "https://github.com/PwrSerge/audit#readme"
+}
