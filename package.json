@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/PwrSerge/audit/issues"
   },
-  "homepage": "https://github.com/PwrSerge/audit#readme"
+  "homepage": "https://github.com/PwrSerge/audit#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "babel": "^6.5.2",
+    "chai": "^3.5.0"
+  }
 }
