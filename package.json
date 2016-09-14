@@ -16,9 +16,20 @@
     "url": "https://github.com/PwrSerge/audit/issues"
   },
   "homepage": "https://github.com/PwrSerge/audit#readme",
-  "devDependencies": {},
+  "devDependencies": {
+    "accessibility-developer-tools": "^2.10.0",
+    "gulp": "^3.9.1",
+    "gulp-a11y": "^0.1.1",
+    "gulp-accessibility": "^2.0.1",
+    "gulp-phantomcss": "^0.2.0",
+    "gulp-postcss": "^6.2.0",
+    "gulp-webpagetest": "^1.1.1",
+    "psi": "^2.0.4"
+  },
   "dependencies": {
     "babel": "^6.5.2",
-    "chai": "^3.5.0"
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2",
+    "phantom": "^2.1.21"
   }
 }
