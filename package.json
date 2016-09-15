@@ -18,7 +18,7 @@
   "homepage": "https://github.com/PwrSerge/audit#readme",
   "devDependencies": {
     "accessibility-developer-tools": "^2.10.0",
-    "gulp": "^3.9.1",
+    "gulp": "github:gulpjs/gulp#4.0",
     "gulp-a11y": "^0.1.1",
     "gulp-accessibility": "^2.0.1",
     "gulp-phantomcss": "^0.2.0",
