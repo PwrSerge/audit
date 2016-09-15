@@ -22,6 +22,7 @@
     "gulp-a11y": "^0.1.1",
     "gulp-accessibility": "^2.0.1",
     "gulp-phantomcss": "^0.2.0",
+    "gulp-plumber": "^1.1.0",
     "gulp-postcss": "^6.2.0",
     "gulp-webpagetest": "^1.1.1",
     "psi": "^2.0.4",
